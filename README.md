@@ -33,4 +33,4 @@ My biggest current goals are:
  
  
  
-![Snake animation](https://github.com/seu-usuário-aqui/FlavioGP/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
