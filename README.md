@@ -4,7 +4,6 @@
 
 ### Can I tell you a little about myself?
 
-- I am 26 years old and currently work in the replacement area in a family market.
 - In 2017 I entered the Information Technology course at FAETERJ-Petropolis and there I was introduced to the C programming language.
 - That's when I fell in love with programming, everything I could do with this "power" was going through my mind and it left me in ecstasy.
 - At the end of 2018 due to personal problems I was forced to drop out of college, I couldn't finish it and this affects me to this day.
