@@ -105,8 +105,8 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
-  <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-147DD4?style=flat-square&labelColor=147DD4&logo=Outlook&logoColor=white&link=#" /></a>
+  <a href="flavio.gpinheiro@outlook.com" alt="Outlook">
+  <img src="https://img.shields.io/badge/-Outlook-147DD4?style=flat-square&labelColor=147DD4&logo=Outlook&logoColor=white&link=flavio.gpinheiro@outlook.com" /></a>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=#" /></a>
