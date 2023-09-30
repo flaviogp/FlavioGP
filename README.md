@@ -29,8 +29,8 @@
 
 - **Languages**:
     
-   ![](https://img.shields.io/badge/javascript-23272F?style=for-the-badge&logo=javascript)
-   ![](https://img.shields.io/badge/typescript-23272F?style=for-the-badge&logo=typescript)
+   ![](https://img.shields.io/badge/javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
+   ![](https://img.shields.io/badge/typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <br>   
@@ -38,16 +38,16 @@
 - **Front-End Development**:
 
     
-   ![](https://img.shields.io/badge/html5-23272F?style=for-the-badge&logo=html5)
-   ![](https://img.shields.io/badge/css3-23272F?style=for-the-badge&logo=css3)
-   ![](https://img.shields.io/badge/javascript-23272F?style=for-the-badge&logo=javascript)
+   ![](https://img.shields.io/badge/html5-ff8c00?style=for-the-badge&logo=html5&logoColor=white)
+   ![](https://img.shields.io/badge/css3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
+   ![](https://img.shields.io/badge/javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
 - **Libraries and Frameworks**:
 
-   ![](https://img.shields.io/badge/ReactJs-23272F?style=for-the-badge&logo=ReactJs)
-   ![](https://img.shields.io/badge/Sass-23272F?style=for-the-badge&logo=Sass)
+   ![](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=React&logoColor=black)
+   ![](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=Sass&logoColor=white)
    ![](https://img.shields.io/badge/Styled%20Components-23272F?style=for-the-badge&logo=StyledComponents)
    ![](https://img.shields.io/badge/Next.Js-23272F?style=for-the-badge&logo=next.js)
     
@@ -65,6 +65,10 @@
 
 - **Extras**:
 
+    ![](https://img.shields.io/badge/Jest-CC4B21?style=for-the-badge&logo=jest&logoColor=white)
+    ![](https://img.shields.io/badge/s.o.l.i.d-23272F?style=for-the-badge&logo=s.o.l.i.d)
+    ![](https://img.shields.io/badge/knex.js-E16426?style=for-the-badge&logo=knexjs)
+    ![](https://img.shields.io/badge/SQL-0075CF?style=for-the-badge&logo=SQL&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
@@ -100,7 +104,13 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p align="left">
+  <a href="#" alt="Outlook">
+  <img src="https://img.shields.io/badge/-Outlook-147DD4?style=flat-square&labelColor=147DD4&logo=Outlook&logoColor=white&link=#" /></a>
 
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=#" /></a>
+</p>
 
 </div>
 <br>
@@ -112,4 +122,4 @@
 
 <br>
  
-![Snake animation](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
