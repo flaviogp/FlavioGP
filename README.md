@@ -50,6 +50,7 @@
    ![](https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=Sass&logoColor=white)
    ![](https://img.shields.io/badge/Styled%20Components-23272F?style=for-the-badge&logo=StyledComponents)
    ![](https://img.shields.io/badge/Next.Js-23272F?style=for-the-badge&logo=next.js)
+   ![](https://img.shields.io/badge/TailwindCSS-23272F?style=for-the-badge&logo=TailwindCSS)
     
 <br>
 
